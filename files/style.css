@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(212, 212, 212);
+}
+table,td{
+    border: 1px solid rgb(172, 172, 172);
+    margin: 0px auto;
+    color: rgb(10, 10, 10);
+}
+td{
+    padding: 10px 20px;
+    /* width: 100px; */
+}
+.addBtn{
+    
+    background-color:orange;
+    margin-left: 40%;
+    margin-top: 50px;
+    padding: 8px;
+    border-radius: 20px;
+}

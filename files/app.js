@@ -41,8 +41,8 @@ vtr.appendChild(Vtd7);
 let Vtd8 = document.createElement('td');
 Vtd8.textContent = placementp;
 vtr.appendChild(Vtd8); 
-// console.log(Vtable);
-// console.log(Vtable);
+console.log(Vtable);
+console.log(Vtable);
 
 Vtable.appendChild(vtr);
 
